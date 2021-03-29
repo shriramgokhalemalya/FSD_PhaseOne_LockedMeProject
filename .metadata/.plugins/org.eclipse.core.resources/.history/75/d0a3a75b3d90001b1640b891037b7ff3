@@ -1,0 +1,21 @@
+package Sample;
+
+import java.util.Scanner;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("Provide Input");
+		
+		String str = scanner.next();
+		
+		System.out.println(str);
+		
+
+	}
+
+}
